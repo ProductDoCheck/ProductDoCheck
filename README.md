@@ -1,4 +1,7 @@
-### Hi there 👋
+### DoCheck Product Team
+
+![DSC02738](https://github.com/ProductDoCheck/ProductDoCheck/assets/93564507/299b44b8-135a-4964-be0b-54d3e731340d)
+
 
 <!--
 **ProductDoCheck/ProductDoCheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
